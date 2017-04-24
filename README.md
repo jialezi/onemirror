@@ -14,7 +14,7 @@ OneMirror is a Docker image of Nginx. With already configured Google Search, Goo
 
 ### Basic HTTP Google mirror
 
-    $ docker run -p 80:80 -d bohan/onemirror
+    $ docker run -p 80:80 -d jialezi/onemirror
     
 ### Custom configuration and SSL
 
